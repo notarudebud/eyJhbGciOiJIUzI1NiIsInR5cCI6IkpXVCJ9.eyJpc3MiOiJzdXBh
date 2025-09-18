@@ -1,5 +1,8 @@
 {
   "username": "Tim Cock",
   "displayName": "Tim Cock",
-  "avatar": "https://cdn.discordapp.com/avatars/1288769895898681365/bf4d5eb3b74b9c8fb7b9e900ddcdb22f.webp?size=512"
+  "avatar": "https://cdn.discordapp.com/avatars/1288769895898681365/bf4d5eb3b74b9c8fb7b9e900ddcdb22f.webp?size=512",
+  "banner": null,
+  "bannerColor": null,
+  "about": null
 }
