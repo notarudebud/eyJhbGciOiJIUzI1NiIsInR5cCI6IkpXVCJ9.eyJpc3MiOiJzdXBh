@@ -1,5 +1,8 @@
 {
   "username": "Dyno",
   "displayName": "Dyno",
-  "avatar": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.webp?size=512"
+  "avatar": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.webp?size=512",
+  "banner": null,
+  "bannerColor": null,
+  "about": null
 }
