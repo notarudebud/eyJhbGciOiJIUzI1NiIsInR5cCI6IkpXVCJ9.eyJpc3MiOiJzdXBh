@@ -3,5 +3,12 @@
   "displayName": "Cinesaku",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/0bf216892cdef1376eb2ca7fc6631e44.webp?size=512",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "I'll Do It",
+      "activity_artist": "Heidi Montag",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273aef1fcb5528f0f4e6e2d581f"
+    }
+  ]
 }
