@@ -3,5 +3,12 @@
   "displayName": "Cinesaku",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/f0dcf9d2e9d690e2bc3dce310ab6b305.webp?size=512",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "Confident",
+      "activity_artist": "Justin Bieber; Chance the Rapper",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9"
+    }
+  ]
 }
