@@ -3,8 +3,12 @@
   "displayName": "Dyno",
   "avatar": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.webp?size=512",
   "banner": null,
-  "activity": {
-    "activity": "Playing",
-    "activity_name": "dyno.gg | ?help"
-  }
+  "activities": [
+    {
+      "activity": "Playing",
+      "activity_name": "dyno.gg | ?help",
+      "activity_artist": null,
+      "album_art": null
+    }
+  ]
 }
