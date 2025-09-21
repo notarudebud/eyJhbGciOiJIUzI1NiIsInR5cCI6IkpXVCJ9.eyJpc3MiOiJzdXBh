@@ -3,12 +3,5 @@
   "displayName": "Emma",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/84a005fa2168410c550dc700c2f9988c.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "So Cynical (Badum)",
-      "activity_artist": "LE SSERAFIM",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b27386efcf81bf1382daa2d2afe6"
-    }
-  ]
+  "activities": []
 }
