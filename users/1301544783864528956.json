@@ -3,12 +3,5 @@
   "displayName": "Cinesaku",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/f0dcf9d2e9d690e2bc3dce310ab6b305.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "MANIAC",
-      "activity_artist": "Stray Kids",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9"
-    }
-  ]
+  "activities": []
 }
