@@ -3,12 +3,5 @@
   "displayName": "Vyntra",
   "avatar": "https://cdn.discordapp.com/avatars/897829761810837564/f6ad3ac7bb1589e9db9148f8132b24a5.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "I Kissed A Girl",
-      "activity_artist": "Katy Perry",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b2733f97d4244eff5852477d9ee0"
-    }
-  ]
+  "activities": []
 }
