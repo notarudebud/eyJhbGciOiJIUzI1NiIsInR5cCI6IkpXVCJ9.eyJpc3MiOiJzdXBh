@@ -3,12 +3,5 @@
   "displayName": "Cinesaku",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/0bf216892cdef1376eb2ca7fc6631e44.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "Misty",
-      "activity_artist": "Laufey",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96"
-    }
-  ]
+  "activities": []
 }
