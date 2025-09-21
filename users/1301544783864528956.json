@@ -3,5 +3,12 @@
   "displayName": "Cinesaku",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/f0dcf9d2e9d690e2bc3dce310ab6b305.webp?size=512",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "When Did You Get Hot?",
+      "activity_artist": "Sabrina Carpenter",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b27345e9957f1f728941041d3210"
+    }
+  ]
 }
