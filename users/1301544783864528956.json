@@ -1,7 +1,14 @@
 {
   "username": "cinesaku",
   "displayName": "Emma",
-  "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/84a005fa2168410c550dc700c2f9988c.webp?size=512",
+  "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/1ee3ef91c8c47f0079fb966dd1aae422.webp?size=512",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "did i tell u that i miss u - slowed",
+      "activity_artist": "adore",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b27337b9c1d008fe46d755cbcd3c"
+    }
+  ]
 }
