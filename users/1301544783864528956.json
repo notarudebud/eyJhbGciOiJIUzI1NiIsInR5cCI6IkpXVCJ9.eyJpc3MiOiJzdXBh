@@ -3,12 +3,5 @@
   "displayName": "emloron",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/0bf216892cdef1376eb2ca7fc6631e44.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "ICEWHORE!",
-      "activity_artist": "Lumi Athena",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b273a506d859897f817da1985d2a"
-    }
-  ]
+  "activities": []
 }
