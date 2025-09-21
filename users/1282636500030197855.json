@@ -3,5 +3,18 @@
   "displayName": "yves de vil",
   "avatar": "https://cdn.discordapp.com/avatars/1282636500030197855/6513a1ce80e9d91482d95dbfd032a861.webp?size=512",
   "banner": "https://cdn.discordapp.com/banners/1282636500030197855/aff74ed7ce17168e04f01880cfcaa88d.webp?size=512",
-  "activities": []
+  "activities": [
+    {
+      "activity": "Playing",
+      "activity_name": "Visual Studio Code",
+      "activity_artist": null,
+      "album_art": "https://cdn.discordapp.com/app-assets/383226320970055681/1359298971646038066.webp"
+    },
+    {
+      "activity": "listening",
+      "activity_name": "drunk",
+      "activity_artist": "keshi",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273563944da62812cc5c6e2fe6f"
+    }
+  ]
 }
