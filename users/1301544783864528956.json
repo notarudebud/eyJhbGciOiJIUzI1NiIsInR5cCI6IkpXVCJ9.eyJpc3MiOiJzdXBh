@@ -3,5 +3,12 @@
   "displayName": "Cinesaku",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/f0dcf9d2e9d690e2bc3dce310ab6b305.webp?size=512",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "Dark Horse",
+      "activity_artist": "Katy Perry; Juicy J",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b2731e9a057052d59004caf47e22"
+    }
+  ]
 }
