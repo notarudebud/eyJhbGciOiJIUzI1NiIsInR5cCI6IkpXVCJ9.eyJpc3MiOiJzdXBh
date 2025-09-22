@@ -3,18 +3,5 @@
   "displayName": "0cj8",
   "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/48b9d3d6887f3ab56b2f62f79b851c8f.webp?size=512",
   "banner": "https://cdn.discordapp.com/banners/1352821576067842089/9332b6541a0da89505a9cd0549bd697e.webp?size=512",
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "Let Me Love You",
-      "activity_artist": "Mario",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b273ba8db944ef3e2846ba9efa57"
-    },
-    {
-      "activity": "Playing",
-      "activity_name": "556 RP",
-      "activity_artist": null,
-      "album_art": "https://cdn.discordapp.com/app-assets/1053811633400594573/1414611780692480070.webp"
-    }
-  ]
+  "activities": []
 }
