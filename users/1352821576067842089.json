@@ -5,12 +5,6 @@
   "banner": "https://cdn.discordapp.com/banners/1352821576067842089/9332b6541a0da89505a9cd0549bd697e.webp?size=512",
   "activities": [
     {
-      "activity": "listening",
-      "activity_name": "Sure Thing",
-      "activity_artist": "Miguel",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c"
-    },
-    {
       "activity": "Playing",
       "activity_name": "556 RP",
       "activity_artist": null,
