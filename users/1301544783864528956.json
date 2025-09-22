@@ -3,12 +3,5 @@
   "displayName": "🚬",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/4c08fa8053aea2869645fbd671fb9522.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "BLUSH",
-      "activity_artist": "WOOAH",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b27388ebb9b9f0a05bb92c9fa9e5"
-    }
-  ]
+  "activities": []
 }
