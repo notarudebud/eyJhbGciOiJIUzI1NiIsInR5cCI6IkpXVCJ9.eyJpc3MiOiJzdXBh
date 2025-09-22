@@ -3,12 +3,5 @@
   "displayName": "n.",
   "avatar": "https://cdn.discordapp.com/avatars/1354876838236918043/aef7f988386dd0b970aaf14e5cd4a739.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "LALISA",
-      "activity_artist": "LISA",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19"
-    }
-  ]
+  "activities": []
 }
