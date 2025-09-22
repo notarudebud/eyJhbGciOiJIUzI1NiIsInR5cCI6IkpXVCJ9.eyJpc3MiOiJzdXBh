@@ -3,12 +3,5 @@
   "displayName": "🚬",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/4c08fa8053aea2869645fbd671fb9522.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "The Lost Soul Down",
-      "activity_artist": "NBSPLV",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b2730cc53b9e31007099f8a672db"
-    }
-  ]
+  "activities": []
 }
