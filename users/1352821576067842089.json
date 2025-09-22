@@ -5,6 +5,12 @@
   "banner": "https://cdn.discordapp.com/banners/1352821576067842089/9332b6541a0da89505a9cd0549bd697e.webp?size=512",
   "activities": [
     {
+      "activity": "listening",
+      "activity_name": "Love Me Not",
+      "activity_artist": "Ravyn Lenae",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273ef985ba96e76a9574cc68a30"
+    },
+    {
       "activity": "Playing",
       "activity_name": "556 RP",
       "activity_artist": null,
