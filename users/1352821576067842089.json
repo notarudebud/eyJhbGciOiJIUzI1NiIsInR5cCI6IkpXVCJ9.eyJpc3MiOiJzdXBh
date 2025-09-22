@@ -3,12 +3,5 @@
   "displayName": "0cj8",
   "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/48b9d3d6887f3ab56b2f62f79b851c8f.webp?size=512",
   "banner": "https://cdn.discordapp.com/banners/1352821576067842089/9332b6541a0da89505a9cd0549bd697e.webp?size=512",
-  "activities": [
-    {
-      "activity": "Playing",
-      "activity_name": "GLife: Freeroam",
-      "activity_artist": null,
-      "album_art": "https://cdn.discordapp.com/app-assets/1047579283708723210/1047580492247077065.webp"
-    }
-  ]
+  "activities": []
 }
