@@ -3,5 +3,12 @@
   "displayName": "🚬",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/c91726fe933aaf570a122d0007c5c4d9.webp?size=512",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "No One Noticed",
+      "activity_artist": "The Marías",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b2734d070fdf58fad8c54c5beb85"
+    }
+  ]
 }
