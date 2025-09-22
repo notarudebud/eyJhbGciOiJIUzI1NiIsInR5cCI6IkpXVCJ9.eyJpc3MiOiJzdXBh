@@ -3,5 +3,12 @@
   "displayName": "0cj8",
   "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/48b9d3d6887f3ab56b2f62f79b851c8f.webp?size=512",
   "banner": "https://cdn.discordapp.com/banners/1352821576067842089/9332b6541a0da89505a9cd0549bd697e.webp?size=512",
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "Hell N Back (feat. Summer Walker)",
+      "activity_artist": "Bakar; Summer Walker",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273864f946221840eced94a2243"
+    }
+  ]
 }
