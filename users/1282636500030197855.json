@@ -3,12 +3,5 @@
   "displayName": "c",
   "avatar": "https://cdn.discordapp.com/avatars/1282636500030197855/ec9b6b59521d33b7ecf7aec0928440d4.webp?size=512",
   "banner": "https://cdn.discordapp.com/banners/1282636500030197855/aff74ed7ce17168e04f01880cfcaa88d.webp?size=512",
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "Forever",
-      "activity_artist": "keshi",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b2733dfa5d71dad925112f5d5b9a"
-    }
-  ]
+  "activities": []
 }
