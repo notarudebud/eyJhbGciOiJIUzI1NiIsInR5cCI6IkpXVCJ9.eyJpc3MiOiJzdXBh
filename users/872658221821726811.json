@@ -3,12 +3,5 @@
   "displayName": "7",
   "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/b9747ae3b8efd7f8169da4fcf062cd31.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "Playing",
-      "activity_name": "Visual Studio Code",
-      "activity_artist": null,
-      "album_art": "https://cdn.discordapp.com/app-assets/383226320970055681/1359298971646038066.webp"
-    }
-  ]
+  "activities": []
 }
