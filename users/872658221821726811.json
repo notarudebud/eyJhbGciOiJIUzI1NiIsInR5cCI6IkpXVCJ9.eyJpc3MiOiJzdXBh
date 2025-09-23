@@ -6,9 +6,9 @@
   "activities": [
     {
       "activity": "Playing",
-      "activity_name": "Visual Studio Code",
+      "activity_name": "Code",
       "activity_artist": null,
-      "album_art": "https://cdn.discordapp.com/app-assets/383226320970055681/1359299181424017699.webp"
+      "album_art": "https://media.discordapp.net/external/CPFiq3MlvnvOKJSW6pUeZ7gfOdfcrLPtGK9dT3LrsCo/https/raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/npm.png"
     }
   ]
 }
