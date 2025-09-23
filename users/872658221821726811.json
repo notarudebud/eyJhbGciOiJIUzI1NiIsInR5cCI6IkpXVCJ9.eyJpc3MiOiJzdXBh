@@ -3,12 +3,5 @@
   "displayName": "7",
   "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/b9747ae3b8efd7f8169da4fcf062cd31.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "Playing",
-      "activity_name": "Code",
-      "activity_artist": null,
-      "album_art": "https://media.discordapp.net/external/ftBjuYHxeAs2FW1lMnr-_BxOSttEZIc1aAzg_W3nFlM/https/raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/js.png"
-    }
-  ]
+  "activities": []
 }
