@@ -3,5 +3,12 @@
   "displayName": "🚬",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/c91726fe933aaf570a122d0007c5c4d9.webp?size=512",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "Eve, Psyche & The Bluebeard’s wife",
+      "activity_artist": "LE SSERAFIM",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7"
+    }
+  ]
 }
