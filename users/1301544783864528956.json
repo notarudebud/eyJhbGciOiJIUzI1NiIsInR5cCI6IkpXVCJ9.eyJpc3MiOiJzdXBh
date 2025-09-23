@@ -3,5 +3,12 @@
   "displayName": "🚬",
   "avatar": "https://cdn.discordapp.com/avatars/1301544783864528956/c91726fe933aaf570a122d0007c5c4d9.webp?size=512",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "Cake",
+      "activity_artist": "Melanie Martinez",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b2733899712512f50a8d9e01e951"
+    }
+  ]
 }
