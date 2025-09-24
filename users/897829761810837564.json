@@ -3,12 +3,5 @@
   "displayName": "Vyntra",
   "avatar": "https://cdn.discordapp.com/avatars/897829761810837564/df686f7d9a1655b5e4a2f083c449772f.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "I'm The Reason",
-      "activity_artist": "Mloose",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b273068a1ab1115d23c29c9a808b"
-    }
-  ]
+  "activities": []
 }
