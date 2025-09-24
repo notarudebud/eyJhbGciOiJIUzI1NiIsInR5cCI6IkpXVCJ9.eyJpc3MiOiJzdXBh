@@ -3,5 +3,12 @@
   "displayName": "0cj8",
   "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
   "banner": "https://cdn.discordapp.com/banners/1352821576067842089/9332b6541a0da89505a9cd0549bd697e.webp?size=512",
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "If I Ain't Got You",
+      "activity_artist": "Alicia Keys",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b"
+    }
+  ]
 }
