@@ -3,5 +3,12 @@
   "displayName": "bled",
   "avatar": "https://cdn.discordapp.com/avatars/1282636500030197855/db8d548b3ffbb2680fdb08ee1690ad91.webp?size=512",
   "banner": "https://cdn.discordapp.com/banners/1282636500030197855/aff74ed7ce17168e04f01880cfcaa88d.webp?size=512",
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "Beware",
+      "activity_artist": "Big Sean; Lil Wayne; Jhené Aiko",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273d126daad8e8479dbad94610e"
+    }
+  ]
 }
