@@ -3,5 +3,12 @@
   "displayName": "0cj8",
   "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "Playing",
+      "activity_name": "Grand Theft Auto V Legacy",
+      "activity_artist": null,
+      "album_art": null
+    }
+  ]
 }
