@@ -5,6 +5,12 @@
   "banner": null,
   "activities": [
     {
+      "activity": "listening",
+      "activity_name": "Last Friday Night (T.G.I.F.)",
+      "activity_artist": "Katy Perry",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273d20c38f295039520d688a888"
+    },
+    {
       "activity": "Playing",
       "activity_name": "Roblox",
       "activity_artist": null,
