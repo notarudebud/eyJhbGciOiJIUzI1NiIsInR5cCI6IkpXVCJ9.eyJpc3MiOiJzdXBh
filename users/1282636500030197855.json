@@ -5,6 +5,12 @@
   "banner": null,
   "activities": [
     {
+      "activity": "listening",
+      "activity_name": "Maps",
+      "activity_artist": "Maroon 5",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c"
+    },
+    {
       "activity": "Playing",
       "activity_name": "Roblox",
       "activity_artist": null,
