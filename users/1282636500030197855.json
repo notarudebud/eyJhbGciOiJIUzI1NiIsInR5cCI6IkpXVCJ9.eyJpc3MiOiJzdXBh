@@ -5,6 +5,12 @@
   "banner": null,
   "activities": [
     {
+      "activity": "listening",
+      "activity_name": "Tied Up",
+      "activity_artist": "Corbyn Besson",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b2734d742137152aaa653bcd1b87"
+    },
+    {
       "activity": "Playing",
       "activity_name": "TLauncher",
       "activity_artist": null,
