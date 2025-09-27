@@ -3,5 +3,12 @@
   "displayName": "0cj8",
   "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "undressed",
+      "activity_artist": "sombr",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273d2eb391e0b3c3bc21c127db6"
+    }
+  ]
 }
