@@ -5,16 +5,16 @@
   "banner": null,
   "activities": [
     {
+      "activity": "Playing",
+      "activity_name": "YBN LS Shooting",
+      "activity_artist": null,
+      "album_art": "https://media.discordapp.net/external/UZfPywAs6GcS2NiuunRVSAzgaCW1py4JZccHRE8Nl2U/https/r2.fivemanage.com/uByiOk3AZhOgCvSbL6thE/image%2817%29.png"
+    },
+    {
       "activity": "listening",
       "activity_name": "We Are The People",
       "activity_artist": "Empire Of The Sun",
       "album_art": "https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d"
-    },
-    {
-      "activity": "Playing",
-      "activity_name": "FiveM",
-      "activity_artist": null,
-      "album_art": "https://cdn.discordapp.com/app-assets/382624125287399424/848636446137909298.webp"
     }
   ]
 }
