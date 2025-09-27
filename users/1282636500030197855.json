@@ -5,12 +5,6 @@
   "banner": null,
   "activities": [
     {
-      "activity": "listening",
-      "activity_name": "Baby",
-      "activity_artist": "Justin Bieber; Ludacris",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a"
-    },
-    {
       "activity": "Playing",
       "activity_name": "Roblox",
       "activity_artist": null,
