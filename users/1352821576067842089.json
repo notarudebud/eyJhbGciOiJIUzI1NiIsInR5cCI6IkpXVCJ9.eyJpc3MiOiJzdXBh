@@ -5,16 +5,10 @@
   "banner": null,
   "activities": [
     {
-      "activity": "Playing",
-      "activity_name": "FiveM",
-      "activity_artist": null,
-      "album_art": "https://cdn.discordapp.com/app-assets/382624125287399424/848636446137909298.webp"
-    },
-    {
       "activity": "listening",
-      "activity_name": "Love Me Not (feat. Rex Orange County)",
-      "activity_artist": "Ravyn Lenae; Rex Orange County",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b273429fb56a1c1abd794170cecd"
+      "activity_name": "Too Fast",
+      "activity_artist": "Sonder",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273d02b7127abecfb4ba3cc5b0d"
     }
   ]
 }
