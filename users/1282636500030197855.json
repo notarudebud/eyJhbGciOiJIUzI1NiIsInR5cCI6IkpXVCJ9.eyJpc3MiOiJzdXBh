@@ -3,12 +3,5 @@
   "displayName": "流血",
   "avatar": "https://cdn.discordapp.com/avatars/1282636500030197855/054a41e205a2ff9a9d1b20453a1f5bab.webp?size=512",
   "banner": null,
-  "activities": [
-    {
-      "activity": "listening",
-      "activity_name": "I Gotta Feeling",
-      "activity_artist": "Black Eyed Peas",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b2730bd44f5ff9ecc99f7770acc5"
-    }
-  ]
+  "activities": []
 }
