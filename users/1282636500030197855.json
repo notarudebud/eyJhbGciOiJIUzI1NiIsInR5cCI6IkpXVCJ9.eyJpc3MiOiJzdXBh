@@ -5,12 +5,6 @@
   "banner": null,
   "activities": [
     {
-      "activity": "listening",
-      "activity_name": "Starships",
-      "activity_artist": "Nicki Minaj",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b27385235715597dcd07bb9e0f84"
-    },
-    {
       "activity": "Playing",
       "activity_name": "Roblox",
       "activity_artist": null,
