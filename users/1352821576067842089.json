@@ -3,5 +3,12 @@
   "displayName": "0cj8",
   "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "Let Me Love You",
+      "activity_artist": "Mario",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273ba8db944ef3e2846ba9efa57"
+    }
+  ]
 }
