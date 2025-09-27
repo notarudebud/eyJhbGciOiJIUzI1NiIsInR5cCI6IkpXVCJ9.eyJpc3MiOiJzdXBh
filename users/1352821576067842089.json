@@ -6,15 +6,15 @@
   "activities": [
     {
       "activity": "Playing",
-      "activity_name": "556 RP",
+      "activity_name": "FiveM",
       "activity_artist": null,
-      "album_art": "https://cdn.discordapp.com/app-assets/1053811633400594573/1414611780692480070.webp"
+      "album_art": "https://cdn.discordapp.com/app-assets/382624125287399424/848636446137909298.webp"
     },
     {
       "activity": "listening",
-      "activity_name": "Pocketful of Sunshine",
-      "activity_artist": "Natasha Bedingfield",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b273861f87fea3ad0f7b23453780"
+      "activity_name": "Love Me Not (feat. Rex Orange County)",
+      "activity_artist": "Ravyn Lenae; Rex Orange County",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b273429fb56a1c1abd794170cecd"
     }
   ]
 }
