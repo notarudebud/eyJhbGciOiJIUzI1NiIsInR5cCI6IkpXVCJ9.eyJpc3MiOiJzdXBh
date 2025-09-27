@@ -5,6 +5,12 @@
   "banner": null,
   "activities": [
     {
+      "activity": "Playing",
+      "activity_name": "FiveM",
+      "activity_artist": null,
+      "album_art": "https://cdn.discordapp.com/app-assets/382624125287399424/848636446137909298.webp"
+    },
+    {
       "activity": "listening",
       "activity_name": "Girl You Loud",
       "activity_artist": "Chris Brown; Tyga",
