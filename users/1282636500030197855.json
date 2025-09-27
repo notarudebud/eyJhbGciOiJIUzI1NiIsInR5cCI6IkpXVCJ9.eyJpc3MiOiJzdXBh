@@ -5,6 +5,12 @@
   "banner": null,
   "activities": [
     {
+      "activity": "Playing",
+      "activity_name": "Roblox",
+      "activity_artist": null,
+      "album_art": null
+    },
+    {
       "activity": "listening",
       "activity_name": "beside you",
       "activity_artist": "keshi",
