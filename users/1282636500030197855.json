@@ -3,5 +3,12 @@
   "displayName": "流血",
   "avatar": "https://cdn.discordapp.com/avatars/1282636500030197855/054a41e205a2ff9a9d1b20453a1f5bab.webp?size=512",
   "banner": null,
-  "activities": []
+  "activities": [
+    {
+      "activity": "listening",
+      "activity_name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "activity_artist": "Maroon 5; Christina Aguilera",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b2739585ff55fff75c5c07a619cb"
+    }
+  ]
 }
