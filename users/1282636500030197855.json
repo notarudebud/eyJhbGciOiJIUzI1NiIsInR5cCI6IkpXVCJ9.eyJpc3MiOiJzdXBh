@@ -5,6 +5,12 @@
   "banner": null,
   "activities": [
     {
+      "activity": "listening",
+      "activity_name": "Amen",
+      "activity_artist": "keshi",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b2733dfa5d71dad925112f5d5b9a"
+    },
+    {
       "activity": "Playing",
       "activity_name": "TLauncher",
       "activity_artist": null,
