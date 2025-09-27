@@ -5,10 +5,16 @@
   "banner": null,
   "activities": [
     {
+      "activity": "Playing",
+      "activity_name": "FiveM",
+      "activity_artist": null,
+      "album_art": "https://cdn.discordapp.com/app-assets/382624125287399424/848636446137909298.webp"
+    },
+    {
       "activity": "listening",
-      "activity_name": "Put Your Records On",
-      "activity_artist": "Corinne Bailey Rae",
-      "album_art": "https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879"
+      "activity_name": "Me U & Hennessy (feat. Lil Wayne)",
+      "activity_artist": "DeJ Loaf; Lil Wayne",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b2736e1ad89c0027a1c6160e3e36"
     }
   ]
 }
