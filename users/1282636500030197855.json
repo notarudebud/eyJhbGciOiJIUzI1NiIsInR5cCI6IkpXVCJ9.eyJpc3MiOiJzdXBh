@@ -5,6 +5,12 @@
   "banner": null,
   "activities": [
     {
+      "activity": "listening",
+      "activity_name": "S&M",
+      "activity_artist": "Rihanna",
+      "album_art": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794"
+    },
+    {
       "activity": "Playing",
       "activity_name": "Roblox",
       "activity_artist": null,
